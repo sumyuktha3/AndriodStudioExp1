@@ -104,7 +104,7 @@ protected void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanc
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT
+## OUTPUT:
 
 ![java 4](https://user-images.githubusercontent.com/75235818/163918015-7ae862ba-18e6-4617-9e0b-4c7949850aaa.png)
 ![java 3](https://user-images.githubusercontent.com/75235818/163918206-0b257427-5c4a-4e27-9abe-71781e8b7db4.png)
@@ -115,5 +115,5 @@ protected void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanc
 ![java 1](https://user-images.githubusercontent.com/75235818/163918323-a5e306d0-a3fa-46b1-9d81-aa520272cc1e.png)
 
 
-## RESULT!
+## RESULT:
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
